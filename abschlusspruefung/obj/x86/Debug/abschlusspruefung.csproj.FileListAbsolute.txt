@@ -1,0 +1,9 @@
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\obj\x86\Debug\abschlusspruefung.Form1.resources
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\obj\x86\Debug\abschlusspruefung.Properties.Resources.resources
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\bin\Debug\abschlusspruefung.exe
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\bin\Debug\abschlusspruefung.pdb
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\obj\x86\Debug\abschlusspruefung.exe
+c:\users\hubi\documents\visual studio 2010\Projects\abschlusspruefung\abschlusspruefung\obj\x86\Debug\abschlusspruefung.pdb
